@@ -20,6 +20,10 @@
 # production
 /build
 
+# Python virtual environments
+venv/
+.venv/
+
 # misc
 .DS_Store
 *.pem
